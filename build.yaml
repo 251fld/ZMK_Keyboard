@@ -1,0 +1,6 @@
+
+include:
+  - board: nrfmicro_13
+    shield: p48n
+    artificial-name: p48n
+    
